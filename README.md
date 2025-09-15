@@ -92,14 +92,14 @@ __EXIT__ :
 
 <br>
 <p align="center">
-<img width="50%" src="https://user-images.githubusercontent.com/49580304/96666397-e0156a80-130b-11eb-935a-f284bd33215b.jpg"/>
-<img width="45%" src="https://user-images.githubusercontent.com/49580304/96666392-ddb31080-130b-11eb-9056-cc427d87afcc.jpg"/>
+<img width="50%" src="3.png"/>
+<img width="45%" src="4.png"/>
 <img width="48%" src="https://user-images.githubusercontent.com/49580304/78964248-31e86700-7b17-11ea-8696-7dbf89b4d7de.jpg"/>
 </p>
 
 ## WATCH VIDEO [Termux]
 
-[![des](https://user-images.githubusercontent.com/49580304/96466915-3c2ea080-11df-11eb-8328-100ca165c12c.jpg)](https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY)
+[![des](yt.png)](https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY)
 
 ## CONNECT WITH US :
 
