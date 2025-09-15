@@ -1,31 +1,31 @@
 <p align="center">
-<a href="https://bit.ly/3gnUcN3"><img title="Made in Pakistan" src="https://img.shields.io/badge/MADE%20IN-Pakistan-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"><img title="Made in Pakistan" src="https://img.shields.io/badge/MADE%20IN-Pakistan-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/3gnUcN3"><img title="Version" src="https://img.shields.io/badge/Version-2.0-green.svg?style=flat-square"></a>
-<a href="https://bit.ly/3gnUcN3"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+<a href="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"><img title="Version" src="https://img.shields.io/badge/Version-2.0-green.svg?style=flat-square"></a>
+<a href="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"><img title="Maintainence" src="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/3gnUcN3"><img title="Hacklock" src="2.png"></a>
+<a href="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"><img title="Hacklock" src="2.png"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Haroon-hackers"><img title="Github" src="https://github.com/Amoonbhatti/hacklock?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/Haroonhackers"><img title="YouTube" src="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"></a>
+<a href="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"><img title="Github" src="https://github.com/Amoonbhatti/hacklock?style=for-the-badge&logo=github"></a>
+<a href="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"><img title="YouTube" src="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Haroon-hackers"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
-<a href="https://github.com/Haroon-hackers"><img title="Followers" src="https://img.shields.io/github/followers/Haroon-hackers?color=blue&style=flat-square"></a>
-<a href="https://github.com/Haroon-hackers"><img title="Stars" src="https://img.shields.io/github/stars/Haroon-hackers/hacklock?color=red&style=flat-square"></a>
-<a href="https://github.com/Haroon-hackers"><img title="Forks" src="https://img.shields.io/github/forks/Haroon-hackers/hacklock?color=red&style=flat-square"></a>
-<a href="https://github.com/Haroon-hackers"><img title="Watching" src="https://img.shields.io/github/watchers/Haroon-hackers/hacklock?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Haroon-hackers"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+<a href="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"><img title="Language" src="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"></a>
+<a href="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"><img title="Followers" src="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"></a>
+<a href="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"><img title="Stars" src="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"></a>
+<a href="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"><img title="Forks" src="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"></a>
+<a href="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"><img title="Watching" src="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"></a>
+<a href="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"><img title="Licence" src="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"></a>
 </p>
 
 ## ABOUT TOOL :
 
 Hacklock is a bash based script which is officially termux from this tool in just one click you can generate pattern phishing tool which can hack victim pattern and. This tool works on both rooted Android device and Non-rooted Android device.
 
-<p align="center"><a href="https://rebrand.ly/Haroonhacktube"><img title="Haroon Hackers" src="1.png"></a>
+<p align="center"><a href="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"><img title="Haroon Hackers" src="1.png"></a>
 </p>
 
 ## AVAILABLE ON :
@@ -57,7 +57,7 @@ Hacklock is a bash based script which is officially termux from this tool in jus
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/Haroon-hackers/hacklock`
+* `git clone https://github.com/Amoonbhatti/hacklock.git`
 * `cd $HOME`
 * `ls`
 * `cd hacklock`
@@ -99,25 +99,18 @@ __EXIT__ :
 
 ## WATCH VIDEO [Termux]
 
-[![des](https://user-images.githubusercontent.com/49580304/96466915-3c2ea080-11df-11eb-8328-100ca165c12c.jpg)](https://rebrand.ly/rcentvideo)
+[![des](https://user-images.githubusercontent.com/49580304/96466915-3c2ea080-11df-11eb-8328-100ca165c12c.jpg)](https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY)
 
 ## CONNECT WITH US :
 
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://rebrand.ly/fbmsnger)
-<a href="https://rebrand.ly/githubprof"><img title="Github" src="https://img.shields.io/badge/Haroon-hackers-brightgreen?style=for-the-badge&logo=github"></a>
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://rebrand.ly/insgrm)
-[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://rebrand.ly/Haroonwebs)
-[![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://rebrand.ly/linkedinprof)
-[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://rebrand.ly/fsbpage)
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://rebrand.ly/telegramchnl)
-[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://rebrand.ly/hckrgroups)
-[![Instagram](https://img.shields.io/badge/DISCUSSION-FORUM-blue?style=for-the-badge&logo=forum)](https://rebrand.ly/nhforums)
-<a href="https://rebrand.ly/Haroonhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Haroon Hackers-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"><img title="Github" src="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"></a>
+<a href="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"><img title="YouTube" src="[https://img.shields.io/badge/YouTube-Haroon Hackers-red?style=for-the-badge&logo=Youtube](https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY)"></a>
 
 ## BUY ME A COFFEE :
 
 <p align="center">
-<a href="https://rebrand.ly/BuyCoffee"><img title="Haroon Hackers" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
+<a href="#"><img title="Haroon Hackers" src="#"></a>
 </p>
 
 ## WARNING : 
