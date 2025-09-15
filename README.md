@@ -7,7 +7,7 @@
 <a href="https://bit.ly/3gnUcN3"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/3gnUcN3"><img title="Hacklock" src="https://user-images.githubusercontent.com/49580304/96666403-e4418800-130b-11eb-90bc-938e0825e610.jpg"></a>
+<a href="https://bit.ly/3gnUcN3"><img title="Hacklock" src="2.png"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Haroon-hackers"><img title="Github" src="https://img.shields.io/badge/Haroon-hackers-brightgreen?style=for-the-badge&logo=github"></a>
@@ -26,7 +26,7 @@
 
 Hacklock is a bash based script which is officially termux from this tool in just one click you can generate pattern phishing tool which can hack victim pattern and. This tool works on both rooted Android device and Non-rooted Android device.
 
-<p align="center"><a href="https://rebrand.ly/Haroonhacktube"><img title="Haroon Hackers" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
+<p align="center"><a href="https://rebrand.ly/Haroonhacktube"><img title="Haroon Hackers" src="1.png"></a>
 </p>
 
 ## AVAILABLE ON :
