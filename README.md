@@ -103,7 +103,7 @@ __EXIT__ :
 
 ## CONNECT WITH US :
 
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://rebrand.ly/fbmsnger)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)]
 <a href="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"><img title="Github" src="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"></a>
 <a href="https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY"><img title="YouTube" src="[https://img.shields.io/badge/YouTube-Haroon Hackers-red?style=for-the-badge&logo=Youtube](https://youtube.com/playlist?list=PLlvIOx22bSWlSo3VyE98joMutWP84jBrT&si=VbR7HyOvskCGYnaY)"></a>
 
